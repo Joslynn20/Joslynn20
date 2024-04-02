@@ -1,7 +1,7 @@
   
-## Hi Welcome, I'm Bokyoung Kim 👋
+# Hi Welcome, I'm Bokyoung Kim 👋
 
-#### Software Engineer / Backend Developer
+### Software Engineer / Backend Developer
 
 Enthusiastic and motivated junior software developer eager to kick-start a career in the dynamic field of softwared evelopment. <br>
 Seeking opportunities to apply my foundational programming knowledge to contribute to
