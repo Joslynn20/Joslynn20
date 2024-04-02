@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi Welcome, I'm Bokyoung Kim 👋
+#### Software Engineer / Backend Developer
+
+Enthusiastic and motivated junior software developer eager to kick-start a career in the dynamic field of softwared evelopment. <br>
+Seeking opportunities to apply my foundational programming knowledge to contribute to
+innovative projects. <br>
+Passionate about learning and growing within a collaborative team environment, while leveraging my problem-solving skills and attention to detail to deliver high-quality solutions that meet customer needs.
 
 <!--
 **Joslynn20/Joslynn20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
