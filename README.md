@@ -1,15 +1,27 @@
   
 # Hi Welcome, I'm Bokyoung Kim 👋
+<br>
 
+## 💁‍♀ About Me
 ### Software Engineer / Backend Developer
 
 Enthusiastic and motivated junior software developer eager to kick-start a career in the dynamic field of softwared evelopment. <br>
 Seeking opportunities to apply my foundational programming knowledge to contribute to
-innovative projects. <br> <br> <br>
+innovative projects. 
 
 <div align="left">
-  
-### 🛠️ Technical Stack
+
+  ### 📧 <img alt="Gmail" src ="https://img.shields.io/badge/joslynnkim@gmail.com-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white"/>
+
+</div>
+
+<br> <br>
+
+## 🌟 Skills
+
+<div align="left">
+
+  ### 🛠️ Technical Stack
 
 <img alt="Java" src ="https://img.shields.io/badge/Java-FF6F00.svg?&style=flat-square&logo=Java&logoColor=white"/>
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/>
