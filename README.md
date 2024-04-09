@@ -12,7 +12,7 @@ innovative projects.
 <div align="left">
 
   ### 📧 <img alt="Gmail" src ="https://img.shields.io/badge/joslynnkim@gmail.com-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white"/>
-
+  #### 👩‍💻[김보경(Joslynn Kim) 기술 블로그](https://velog.io/@joslynn/posts)
 </div>
 
 <br> <br>
